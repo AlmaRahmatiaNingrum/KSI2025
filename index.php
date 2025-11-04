@@ -86,13 +86,7 @@
         <div class="card">
             <h2>Tambah Data</h2>
             <p>Menambahkan data mahasiswa baru ke dalam database akademik.</p>
-            <a href="tambahdata.php" class="btn">Tambah Sekarang</a>
-        </div>
-
-        <div class="card">
-            <h2>Lihat Data</h2>
-            <p>Menampilkan daftar data mahasiswa yang sudah tersimpan di sistem.</p>
-            <a href="lihatdata.php" class="btn">Lihat Data</a>
+            <a href="tambah_data.php" class="btn">Tambah Sekarang</a>
         </div>
     </div>
 
@@ -102,3 +96,4 @@
 
 </body>
 </html>
+
