@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -99,6 +100,8 @@
 </html>
 
 =======
+=======
+>>>>>>> main
 <?php
 $koneksi = mysqli_connect("localhost", "root", "", "akademik");
 
@@ -107,4 +110,7 @@ if (!$koneksi) {
 }
 echo "Koneksi berhasil!";
 ?>
+<<<<<<< HEAD
 >>>>>>> 096b539 (index)
+=======
+>>>>>>> main
