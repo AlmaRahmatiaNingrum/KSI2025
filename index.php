@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -97,3 +98,13 @@
 </body>
 </html>
 
+=======
+<?php
+$koneksi = mysqli_connect("localhost", "root", "", "akademik");
+
+if (!$koneksi) {
+    die("Koneksi gagal: " . mysqli_connect_error());
+}
+echo "Koneksi berhasil!";
+?>
+>>>>>>> 096b539 (index)
